@@ -13,14 +13,14 @@
 
 | <img height="172em" alt="My GitHub Student Stats" src="https://github-readme-stats.vercel.app/api?username=knaevKMK&show_icons=true&bg_color=00000000&hide_border=true&text_color=3498db&&count_private=true&include_all_commits=true" /> | <img height="172em" alt="My GitHub Student Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knaevKMK&langs_count=8&layout=compact&hide_border=true&bg_color=00000000&text_color=3498db&&count_private=true&include_all_commits=true" />
 
----
+--- 
 
-<h3 align="left">Tech:</h3>
+<h3 align="left">Languages:</h3>
 
-<p>Languages:</p>
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,hibernate,cpp,workers,java,maven,spring,js,ts,nodejs,npm,rabbitmq,jquery,mysql,postgres,redis,sqlite,html,css,bootstrap,nextjs,react,angular,nginx)](https://skillicons.dev)
 
-<p>&</p>
+<h3 align="left">&</h3>
+
 [![My Skills](https://skillicons.dev/icons?i=bash,powershell,azure,firebase,docker,kubernetes,elasticsearch,git,github,githubactions,grafana,prometheus,terraform,linux,windows,figma,gitlab,jenkins,vscode,visualstudio,idea,rider,webstorm,postman)](https://skillicons.dev)
 
 ---
