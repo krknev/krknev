@@ -1,5 +1,10 @@
 ## Hi there 👋
+## I am <a href='https://krknev.github.io'>Krasimir Kanev!</a>
 
+<a href="https://www.linkedin.com/in/krasimir-kanev-178353230/">![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="mailto:kr.knev@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+---
 <!--
 **krknev/krknev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
