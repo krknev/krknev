@@ -1,5 +1,5 @@
 ## Hi there 👋
-## I am <a href='https://krknev.github.io'>Krasimir Kanev!</a>
+## I am Krasimir Kanev here is my <a href='https://krknev.github.io'>profesional account</a>  & <a href='https://knaevKMK.github.io'>student account</a>
 
 <a href="https://www.linkedin.com/in/krasimir-kanev-178353230/">![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="mailto:kr.knev@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
