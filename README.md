@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## I am Krasimir Kanev here is my <a href='https://kr-kanev.onrender.com/'>resume</a>
+## I am Krasimir Kanev here is my <a href='[https://kr-kanev.onrender.com/](https://kr-knev.onrender.com/)'>resume</a>
 
 ---
 <a href="https://www.linkedin.com/in/krasimir-kanev-178353230/">![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
