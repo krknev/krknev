@@ -20,11 +20,15 @@
 
 <h3 align="left">Languages, Skills and Tools::</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,hibernate,cpp,workers,java,maven,spring,js,ts,nodejs,npm,rabbitmq,jquery,mysql,postgres,redis,sqlite,html,css,bootstrap,nextjs,react,angular,nginx)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,hibernate,cpp,workers,java,maven,spring,js,ts,nodejs,npm,rabbitmq,jquery,mysql,postgres,redis,sqlite,mongodb,htmx,html,css,bootstrap,nodejs,nextjs,react,angular,nginx)](https://skillicons.dev)
 
 <h3 align="left">&</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=bash,powershell,azure,firebase,docker,kubernetes,elasticsearch,git,github,githubactions,grafana,prometheus,terraform,linux,windows,figma,gitlab,jenkins,vscode,visualstudio,idea,rider,webstorm,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp,firebase,docker,kubernetes,elasticsearch,sentry,git,github,githubactions,terraform,linux,windows)](https://skillicons.dev)
+
+<h3 align="left">&</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=bash,powershell,git,grafana,prometheus,figma,gitlab,jenkins,vscode,visualstudio,idea,rider,webstorm,postman)](https://skillicons.dev)
 
 ---
 
