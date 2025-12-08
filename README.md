@@ -57,8 +57,12 @@
 ## 📊 GitHub Stats (Main Account)
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=krknev&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krknev&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=krknev" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=krkenv&layout=compact&langs_count=8&card_width=320" />
+</a>
 </p>
 
 ---
