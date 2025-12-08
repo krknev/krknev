@@ -5,7 +5,7 @@
 ---
 <!-- HEADER -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=32&duration=2800&pause=800&color=3498DB&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+K.+Knev!;Full-Stack+Developer+%7C+Backend+.NET+NodeJS+SPRING;C%23+Frontend+React+PixiJS+NextJS+Angular;Welcome+to+my+GitHub+Profile!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=32&duration=2800&pause=800&color=3498DB&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+K.+Knev!;Full-Stack+Developer;Backend+C%23+.NET+NodeJS+SPRING;Frontend+React+PixiJS+NextJS+Angular;Welcome+to+my+GitHub+Profile!">
 </h1>
 
 <p align="center">
