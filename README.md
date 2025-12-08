@@ -72,11 +72,7 @@
 
 ## 🎓 GitHub Stats (Student Account)
 
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=knaevKMK&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knaevKMK&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</p>
-
+![Student Account GitHub stats](https://github-readme-stats.vercel.app/api?username=knaevKMK&show_icons=true&bg_color=00000000)
 
 ---
 
