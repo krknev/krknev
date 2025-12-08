@@ -21,8 +21,9 @@
 
 ## ⚡ About Me  
 - 🎮 Currently building slot-machine game mechanics with **PixiJS + TypeScript**  
-- 🧠 Love backend architecture (**.NET 8, clean architecture, CQRS, EF Core**)  
-- 🚀 Always learning: game engines, rendering systems, GPU optimization  
+- 🧠 Love backend architecture (**.NET, Domain Driven Design, CQRS, Micro Services**) 
+- 🧠 Love frontend architecture (PIXI, React, Next, Canvas, Redux)  
+- 🚀 Always learning... 
 - 🎓 Dual GitHub accounts: personal (**krknev**) & student (**knaevKMK**)  
 
 ---
@@ -36,16 +37,21 @@
 <table>
 <tr>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=dotnet,cs,ts,js,nodejs,react,redux,tailwind,html,css" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,hibernate,cpp,workers,java,maven,spring,js,ts,nodejs,npm,rabbitmq,jquery,mysql,postgres,redis,sqlite,mongodb,htmx,html,css,bootstrap,nodejs,nextjs,react,redux,angular,nginx" />
 </td>
 </tr>
 <tr>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,docker,git,github,linux" />
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,firebase,docker,kubernetes,elasticsearch,sentry,git,github,githubactions,terraform,linux,windows" />
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i==bash,powershell,git,grafana,prometheus,figma,gitlab,jenkins,vscode,visualstudio,idea,rider,webstorm,postman" />
 </td>
 </tr>
 </table>
-
+  
 ---
 
 ## 📊 GitHub Stats (Main Account)
@@ -76,7 +82,13 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+
+_generated with [Platane/snk](https://github.com/Platane/snk)_
 </p>
 
 ---
@@ -119,20 +131,6 @@ Custom tweening, render loops, state managers, input systems
 ---
 
 <h3 align="center">⭐ If you like my work, consider giving a star!</h3>
-
----
-
-<h3 align="left">Languages, Skills and Tools::</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,hibernate,cpp,workers,java,maven,spring,js,ts,nodejs,npm,rabbitmq,jquery,mysql,postgres,redis,sqlite,mongodb,htmx,html,css,bootstrap,nodejs,nextjs,react,redux,angular,nginx)](https://skillicons.dev)
-
-<h3 align="left">&</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp,firebase,docker,kubernetes,elasticsearch,sentry,git,github,githubactions,terraform,linux,windows)](https://github.com/krknev)
-
-<h3 align="left">&</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=bash,powershell,git,grafana,prometheus,figma,gitlab,jenkins,vscode,visualstudio,idea,rider,webstorm,postman)](https://github.com/krknev)
 
 ---
 
