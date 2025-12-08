@@ -57,8 +57,8 @@
 ## 📊 GitHub Stats (Main Account)
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats-brian-ruizy.vercel.app/api?username=krknev&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&text_color=3498db&bg_color=00000000" />
-  <img height="170em" src="https://github-readme-stats-brian-ruizy.vercel.app/api/top-langs/?username=krknev&layout=compact&langs_count=10&hide_border=true&text_color=3498db&bg_color=00000000" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=krknev&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krknev&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
 ---
@@ -66,8 +66,8 @@
 ## 🎓 GitHub Stats (Student Account)
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats-brian-ruizy.vercel.app/api?username=knaevKMK&show_icons=true&include_all_commits=true&hide_border=true&text_color=3498db&bg_color=00000000" />
-  <img height="170em" src="https://github-readme-stats-brian-ruizy.vercel.app/api/top-langs/?username=knaevKMK&layout=compact&langs_count=10&hide_border=true&text_color=3498db&bg_color=00000000" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=knaevKMK&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knaevKMK&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
 
