@@ -75,14 +75,7 @@
 ![Student Account GitHub stats](https://github-readme-stats.vercel.app/api?username=knaevKMK&show_icons=true&bg_color=00000000)
 
 ---
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=krknev&theme=discord&no-frame=true&margin-w=10&column=6" />
-</p>
-
----
-
+<!--
 ## 🐍 Contribution Snake
 
 <p align="center">
@@ -93,14 +86,6 @@
 </picture>
 
 _generated with [Platane/snk](https://github.com/Platane/snk)_
-</p>
-
----
-
-## 🔥 3D Contributions Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/thatonecalculator/3d-contrib/main/profile-south-season-animate.svg" width="80%">
 </p>
 
 ---
@@ -137,8 +122,7 @@ Custom tweening, render loops, state managers, input systems
 <h3 align="center">⭐ If you like my work, consider giving a star!</h3>
 
 ---
-
-<!--
+ 
 **krknev/krknev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
