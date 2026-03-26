@@ -52,7 +52,7 @@
 </tr>
 </table>
 
-[![Nuget](https://img.shields.io/badge/NuGet%20Downloads-5M-brightgreen)](https://www.nuget.org/profiles/knevkmk) [![Nuget](https://img.shields.io/nuget/dt/ServiceBusTools?label=Service%20Bus%20Tools)](https://www.nuget.org/profiles/knevkmk) 
+[![Nuget](https://img.shields.io/badge/NuGet%20Downloads-11K-brightgreen)](https://www.nuget.org/profiles/knevkmk) [![Nuget](https://img.shields.io/nuget/dt/ServiceBusTools?label=Service%20Bus%20Tools)](https://www.nuget.org/profiles/knevkmk) 
 
 ---
 
